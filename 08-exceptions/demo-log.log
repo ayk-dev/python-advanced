@@ -1,0 +1,265 @@
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 2
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 3
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:two_prev_fibonacci = 2
+DEBUG:root:prev_fibonacci = 5
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 2
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:two_prev_fibonacci = 3
+DEBUG:root:prev_fibonacci = 8
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 2
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 3
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:two_prev_fibonacci = 2
+DEBUG:root:two_prev_fibonacci = 5
+DEBUG:root:prev_fibonacci = 13
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 2
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 3
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:two_prev_fibonacci = 2
+DEBUG:root:prev_fibonacci = 5
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 2
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:two_prev_fibonacci = 3
+DEBUG:root:two_prev_fibonacci = 8
+DEBUG:root:prev_fibonacci = 21
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 2
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 3
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:two_prev_fibonacci = 2
+DEBUG:root:prev_fibonacci = 5
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 2
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:two_prev_fibonacci = 3
+DEBUG:root:prev_fibonacci = 8
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 2
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 3
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:two_prev_fibonacci = 2
+DEBUG:root:two_prev_fibonacci = 5
+DEBUG:root:two_prev_fibonacci = 13
+DEBUG:root:prev_fibonacci = 34
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 2
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 3
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:two_prev_fibonacci = 2
+DEBUG:root:prev_fibonacci = 5
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 2
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:two_prev_fibonacci = 3
+DEBUG:root:prev_fibonacci = 8
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 2
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 3
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:two_prev_fibonacci = 2
+DEBUG:root:two_prev_fibonacci = 5
+DEBUG:root:prev_fibonacci = 13
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 2
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 3
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:two_prev_fibonacci = 2
+DEBUG:root:prev_fibonacci = 5
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:prev_fibonacci = 2
+DEBUG:root:Calculating of 1, this is 1
+DEBUG:root:prev_fibonacci = 1
+DEBUG:root:Calculating of 0, this is 0
+DEBUG:root:two_prev_fibonacci = 0
+DEBUG:root:two_prev_fibonacci = 1
+DEBUG:root:two_prev_fibonacci = 3
+DEBUG:root:two_prev_fibonacci = 8
+DEBUG:root:two_prev_fibonacci = 21
